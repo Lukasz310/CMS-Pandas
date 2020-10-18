@@ -1,0 +1,5 @@
+Pandas Tutorials:
+https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS
+
+StackOverflow Survey Download Page:
+http://bit.ly/SO-Survey-Download
